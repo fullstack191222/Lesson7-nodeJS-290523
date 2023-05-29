@@ -1,0 +1,14 @@
+{
+  "name": "lesson8nodejs",
+  "version": "1.0.0",
+  "description": "Node js first project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ilia",
+  "license": "ISC",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}
